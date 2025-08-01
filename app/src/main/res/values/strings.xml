@@ -1,0 +1,335 @@
+<resources>
+    <string name="app_name">My Social Style</string>
+    <string name="error_msg">Silahkan pilih jawaban terlebih dahulu</string>
+    <string name="driver_answer">Saya mengikuti insting saya.</string>
+    <string name="expressive_answer">Saya berkonsultasi dengan seseorang yang pendapatnya saya hargai sebelum memutuskan.</string>
+    <string name="analytical_answer">Saya memikirkannya secara menyeluruh sebelum memutuskan.</string>
+    <string name="amiable_answer">Saya mempertimbangkan dampaknya terhadap orang lain sebelum memutuskan.</string>
+    <string name="question">Jika saya harus membuat keputusan penting…</string>
+    <string name="tentang_app">Teks area tentang aplikasi</string>
+    <string name="take_this_quiz">Ikuti kuis ini untuk menemukan gaya sosial utama Anda, apa artinya, dan bagaimana Anda dapat menggunakannya untuk lebih baik terhubung dengan orang lain</string>
+    <string name="start">Mulai</string>
+    <string name="count">1</string>
+    <string name="page">/20</string>
+    <string name="title">The Social Style Quiz</string>
+    <string name="judul">Kuis Gaya Sosial</string>
+    <string name="app_bar">Hasil Kuis: </string>
+    <string name="character">Karakteristik</string>
+    <string name="description">Deskripsi</string>
+    <string name="how_to_communicate">Cara Berkomunikasi dengan Gaya Ini</string>
+    <string name="strength">Kelebihan</string>
+    <string name="weakness">Kekurangan</string>
+    <string name="solution">Saran dan Solusi</string>
+    <string name="role">Peran dan Tugas yang Sesuai</string>
+    <string name="growth_action">Yang Perlu Ditingkatkan</string>
+    <string name="need_to">Yang Dibutuhkan</string>
+    <string name="timestamp">9 Juni 2025 10:30</string>
+    <string name="name">Nabila Khairunnisa</string>
+    <string name="history">Riwayat Hasil Kuis</string>
+    <string name="result">Hasil Kuis</string>
+
+    <string name="amiable">Amiable</string>
+    <string name="desc_ami">
+        Cenderung berempati dan ramah terhadap orang lain.\n
+        Terbuka terhadap ide-ide baru dan suka bertanya pendapat.\n
+        Lebih suka mendengarkan daripada berbicara, menjadikannya pendengar yang baik.\n
+        Cenderung menghindari konflik dan mengandalkan persuasi saat menghadapi masalah.
+    </string>
+    <string name="strengths_ami">
+        Pendengar yang baik dan aktif.\n
+        Mampu membangun hubungan interpersonal yang kuat dan harmonis.\n
+        Cenderung menghindari konflik dan mencari solusi melalui persuasi.\n
+        Terbuka terhadap ide-ide baru dan perspektif orang lain.\n
+        Memiliki empati tinggi dan sifat yang ramah.
+    </string>
+    <string name="weakness_ami">
+        Cenderung menghindari konflik, menghambat diskusi kritis dan keputusan sulit.\n
+        Enggan menyuarakan ketidaksetujuan atau menghadapi perbedaan pendapat.\n
+        Preferensi membicarakan topik non-pekerjaan, menggeser fokus dari tugas penting.\n
+        Sifat berhati-hati dapat membuat ia sulit mengambil risiko atau keputusan cepat.
+    </string>
+    <string name="solution_ami">
+        Memediasi, berkompromi, dan mencari titik temu untuk mengatasi konflik.\n
+        Berinvestasi dalam percakapan yang memicu kepercayaan dan kerja sama.\n
+        Fokus pada hasil dan keuntungan bersama untuk mengatasi sulitnya membuat keputusan.\n
+        Tidak berdiam diri dan terlibat langsung dalam membuatan keputusan besar.
+    </string>
+    <string name="how_to_communicate_ami">
+        Bersikap ramah dan personal.\n
+        Fokus pada percakapan sosial yang santai.\n
+        Dengarkan dengan sabar dan tunjukkan empati.\n
+        Pastikan kesepakatan saling menguntungkan.
+    </string>
+    <string name="role_ami">
+        Koordinator Lapangan: Membangun hubungan baik untuk feedback cepat dan efektif dari komunitas.\n
+        Hubungan Masyarakat: Menjadi jembatan organisasi-publik, mendengarkan aktif untuk bangun kepercayaan.\n
+        Keanggotaan: Membangun lingkungan kerja harmonis, mengurangi konflik dengan sabar dan ramah.
+    </string>
+
+    <string name="analytical">Analytical</string>
+    <string name="desc_ana">
+        Berpikir logis, teliti, serius, dan sistematis.\n
+        Suka menganalisis dan mendasarkan keputusan pada data.\n
+        Menyukai detail dan mempertimbangkan segala sudut pandang.\n
+        Membutuhkan waktu untuk menimbang pro dan kontra dari setiap kasus.
+    </string>
+    <string name="strengths_ana">
+        Sangat mengandalkan logika dalam menganalisis berbagai aspek.\n
+        Mampu mengumpulkan data secara sistematis.\n
+        Terampil menyusun perencanaan yang sistematis.\n
+        Memanfaatkan informasi sebagai sumber daya koordinatif dalam membuat keputusan.
+    </string>
+    <string name="weakness_ana">
+        Terlihat ragu-ragu atau tidak kooperatif karena pertanyaan yang konstan.\n
+        Lambat dalam pengambilan keputusan.\n
+        Tidak toleran terhadap ketidakteraturan, berpotensi menciptakan ketegangan tim.
+    </string>
+    <string name="solution_ana">
+        Mencoba membuat keputusan berdasarkan intuisi sesekali.\n
+        Belajar merangkul ketidakpastian dan bersedia menyimpang dari zona nyaman.\n
+        Membangun budaya kerja tim, kolaborasi, dan rasa saling menghormati dalam organisasi.
+    </string>
+    <string name="how_to_communicate_ana">
+        Gunakan pendekatan terstruktur dan berbasis fakta.\n
+        Sampaikan informasi jelas dan logis untuk membangun kepercayaan.\n
+        Fokus pada percakapan satu lawan satu untuk diskusi mendalam tentang topik teknis.\n
+        Berikan ruang untuk jeda atau keheningan agar mereka nyaman.\n
+        Kirim email tindak lanjut yang dipersonalisasi dengan artikel atau data relevan.
+    </string>
+    <string name="role_ana">
+        Riset Teknologi: Riset kebutuhan, olah data survei, evaluasi program kerja HIMA.\n
+        Sekretaris: Susun lengkap notulensi, kelola administrasi dokumen, pastikan kerapian arsip.\n
+        Bendahara: Kelola anggaran, buat laporan detail keuangan, hitung akurat biaya program kerja.
+    </string>
+
+    <string name="expressive">Expressive</string>
+    <string name="desc_exp">
+        Cenderung energik, antusias, dan berorientasi hubungan sosial.\n
+        Fleksibel, kreatif, dan memiliki kemampuan beradaptasi tinggi.\n
+        Menikmati obrolan tentang impian dan ide.\n
+        Ekspresif emosional, tampil memikat, suka menjadi pusat perhatian.\n
+        Dramatis, menonjolkan diri, menikmati tampil di muka umum.\n
+        Menunjukkan emosi dan perasaan, mampu terhubung personal.
+    </string>
+    <string name="strengths_exp">
+        Memiliki energi dan antusiasme tinggi.\n
+        Fleksibel, kreatif, dan adaptif.\n
+        Mampu menyampaikan pesan mengesankan dan efektif menggunakan kata-kata.\n
+        Tampil memikat, pusat perhatian, dan menikmati interaksi sosial.\n
+        Dapat terhubung secara personal karena ekspresif emosional.
+    </string>
+    <string name="weakness_exp">
+        Sering terlihat terlalu dominan atau dramatis, dapat menginterupsi.\n
+        Impulsif, kurang pertimbangkan risiko sebelum bertindak, berpotensi kesalahan/konflik.\n
+        Kesulitan fokus dalam waktu lama, sering mencari hal baru.\n
+        Tugas yang membutuhkan ketelitian atau konsistensi sering diabaikan.
+    </string>
+    <string name="solution_exp">
+        Kembangkan active listening: perhatian penuh, biarkan orang lain selesai bicara.\n
+        Kelola impulsivitas: kendalikan reaksi, tahan interupsi atau nasihat tak diminta.\n
+        Tingkatkan fokus: alokasikan waktu khusus untuk tugas tanpa gangguan.
+    </string>
+    <string name="how_to_communicate_exp">
+        Sajikan informasi cepat dan antusias.\n
+        Tarik perhatian dengan bicara impian dan intuisi, tunjukkan minat.\n
+        Tanya "Bagaimana perasaan Anda tentang ini?" untuk melibatkan mereka.\n
+        Dekati dengan kontak personal dan hangat, sesuaikan ritme/energi.\n
+        Gunakan gaya kasual atau informal, dorong mereka bicara tentang diri.\n
+        Fokus topik baru, pertahankan percakapan bervariasi, berikan pujian/penghargaan.
+    </string>
+    <string name="role_exp">
+        Pembuat Konten: Pemasar kreatif, rancang konsep inovatif, bangun branding interaktif.\n
+        Koordinator Acara: Ciptakan pengalaman unik atau berkesan, kreatif, inovatif, libatkan audiens signifikan.\n
+        Pembicara Publik: Sampaikan komunikasi interaktif, adaptasi tinggi, tampil semangat atau memikat.
+    </string>
+
+    <string name="driver">Driver</string>
+    <string name="desc_dri">
+        Cenderung mendominasi, tegas, dan fokus pada tugas.\n
+        Berorientasi pada hasil dan sangat efisien dalam waktu.\n
+        Mandiri, jujur, penuh tekad, dan pragmatis.\n
+        Semangat ketika berkaitan dengan tugas.
+    </string>
+    <string name="strengths_dri">
+        Kepercayaan diri tinggi dan fokus kuat.\n
+        Mampu mengambil keputusan cepat dan efisien.\n
+        Praktis dan rasional dalam mengidentifikasi peluang.\n
+        Kemandirian membuat teguh pada tujuan, menonjol sebagai pemimpin.
+    </string>
+    <string name="weakness_dri">
+        Terlalu terus terang, dapat dianggap intimidatif atau kurang sensitif.\n
+        Keinginan segera bertindak, berpotensi kurang pertimbangan akurat.\n
+        Kurang peduli diskusi, bisa menyebabkan kesalahan keputusan.\n
+        Kurang prioritaskan dukungan tim, abaikan kebutuhan pemangku kepentingan.
+    </string>
+    <string name="solution_dri">
+        Jaga kontak mata alami untuk tunjukkan perhatian tanpa mengintimidasi.\n
+        Bersedia mendengarkan dengan pikiran terbuka, terima perspektif baru.\n
+        Bangun dukungan dan empati dengan mendengarkan aktif.\n
+        Pastikan pemahaman akurat, bangun kepercayaan, hasilkan tim efektif.
+    </string>
+    <string name="how_to_communicate_dri">
+        Gunakan pendekatan singkat, langsung, dan berorientasi hasil.\n
+        Fokus pada topik utama, hindari detail berlebihan.\n
+        Sampaikan informasi jelas untuk tunjukkan efisiensi.\n
+        Tawarkan solusi praktis atau peluang terkait tujuan mereka.
+    </string>
+    <string name="role_dri">
+        Ketua/Wakil: Mengarahkan, membina, memotivasi, cerdas ambil keputusan, percaya diri, integritas, efisien.\n
+        Koordinator Program Kerja: Susun program terstruktur, organisir efisien, kelola sumber daya, awasi pelaksanaan tegas.\n
+        Motivator Tim Internal: Tekankan hasil, efisiensi, nilai sosial, junjung transparansi, bangun kepercayaan.
+    </string>
+
+    <string name="percentage">25</string>
+    <string name="percent">%</string>
+
+    <string-array name="app_title">
+        <item>The Social Style Quiz</item>
+        <item>Sejarah Social Style</item>
+        <item>Aturan Pengerjaan Kuis</item>
+    </string-array>
+
+    <string-array name="app_description">
+        <item>Ini adalah kuesioner penilaian diri. Ikuti kuis ini untuk menemukan gaya sosial utama Anda, apa artinya, dan bagaimana Anda dapat menggunakannya untuk meningkatkan hubungan dengan orang lain.</item>
+        <item>Pada tahun 1964 Dr. David W. Merrill dan Roger Reid memulai penelitian untuk membuat model yang dapat memprediksi kesuksesan dalam karier penjualan dan manajemen. Mereka menemukan bahwa perilaku dan tindakan orang-orang itu cenderung konsisten. Dr. James W. Taylor lalu menciptakan alat ukur social style di atas fondasi berupa penelitian Merrill dan Reid.</item>
+        <item>Tidak ada jawaban yang benar untuk pertanyaan ini, jadi jawablah berdasarkan respons Anda terhadap bagaimana Anda saat ini, bukan bagaimana Anda pikir seharusnya atau ingin menjadi di masa depan.</item>
+    </string-array>
+
+    <string-array name="questions">
+        <item>Apa warna kesukaan Anda?</item>
+        <item>Bagaimana suasana kamar atau ruang belajar Anda?</item>
+        <item>Orang seperti apa yang Anda kagumi?</item>
+        <item>Bagaimana cara Anda mencapai suatu tujuan?</item>
+        <item>Profesi apa yang paling sesuai untuk Anda?</item>
+        <item>Pandangan Anda terhadap masa lalu, masa depan, dan masa kini</item>
+        <item>Dalam perdebatan, Anda biasanya?</item>
+        <item>Peran Anda dalam tugas kelompok?</item>
+        <item>Bagaimana cara Anda menyampaikan pendapat?</item>
+        <item>Sikap Anda jika ada anggota kelompok yang tidak melakukan tugasnya</item>
+        <item>Apa yang paling penting bagi Anda saat mengikuti perlombaan?</item>
+        <item>Mana yang paling menggambarkan diri Anda?</item>
+        <item>Bagaimana Anda menghadapi konflik?</item>
+        <item>Mana yang paling menjadi kelebihan Anda?</item>
+        <item>Mana yang paling Anda sukai?</item>
+        <item>Bagaimana Anda menghadapi masalah?</item>
+        <item>Bagaimana Anda menghadapi kegagalan?</item>
+        <item>Bagaimana Anda menghadapi kritik?</item>
+        <item>Bagaimana cara Anda mengambil keputusan?</item>
+        <item>Bagaimana cara Anda menyelesaikan tugas?</item>
+    </string-array>
+
+    <string-array name="amiableAnswers">
+        <item>Warna bumi atau tanah</item>
+        <item>Banyak poster atau penghargaan</item>
+        <item>Seorang yang rendah hati, lembut, dan memiliki selera humor yang tinggi</item>
+        <item>Dengan dorongan yang suportif dan tanpa tekanan</item>
+        <item>Pekerja sosial</item>
+        <item>Saya menghargai masa lalu dan masa kini</item>
+        <item>Percaya dan mengikuti mayoritas</item>
+        <item>Bekerja keras secara efisien dan adil</item>
+        <item>Memastikan orang lain tidak tersinggung atau marah</item>
+        <item>Membujuknya dengan hangat untuk bekerja sama</item>
+        <item>Pengakuan dari orang terdekat dan keluarga</item>
+        <item>Saya sangat ramah</item>
+        <item>Mendengarkan dan peka terhadap perasaan orang lain</item>
+        <item>Saya mempunyai banyak teman</item>
+        <item>Saya suka dipuji dan diakui</item>
+        <item>Berdiskusi dengan teman untuk mendapat berbagai pandangan</item>
+        <item>Percaya bahwa suatu saat akan mendapatkan hasil yang lebih baik dengan kerja keras</item>
+        <item>Bersikap tenang dan berusaha memahami sudut pandang orang lain</item>
+        <item>Menghargai dan mempertimbangkan pendapat orang lain</item>
+        <item>Bekerja sama membuat tugas menjadi lebih ringan</item>
+    </string-array>
+
+    <string-array name="analyticalAnswers">
+        <item>Hitam, putih, atau perak</item>
+        <item>Tempat memajang ijazah atau prestasi dengan rapi</item>
+        <item>Seorang pemimpin yang mengutamakan prinsip</item>
+        <item>Dengan menyusun strategi yang terbaik</item>
+        <item>Akuntan</item>
+        <item>Saya tidak hidup untuk hari ini tanpa bersiap menghadapi kesulitan di masa depan</item>
+        <item>Sangat setuju atau sangat tidak setuju, tidak pernah netral</item>
+        <item>Melakukan pekerjaan dengan sempurna karena saya perfeksionis</item>
+        <item>Tidak spontan, berpikir ulang sebelum mengatakannya</item>
+        <item>Hanya fokus pada tugas saya karena semua orang harus mengorganisir waktunya dengan baik</item>
+        <item>Memperbaiki kesalahan sampai bisa</item>
+        <item>Saya sangat tertib</item>
+        <item>Berpikir untuk mencari jalan keluar berdasarkan logika</item>
+        <item>Saya menyelesaikan tugas tepat waktu</item>
+        <item>Saya suka menaati peraturan</item>
+        <item>Menganalisis masalah secara rinci dan logis</item>
+        <item>Percaya bahwa setiap orang ada masanya dan setiap masa ada orangnya</item>
+        <item>Menganalisis kritik untuk menemukan poin yang valid</item>
+        <item>Berprinsip pada fakta yang realistis</item>
+        <item>Menyusun jadwal yang rapi untuk efisiensi waktu</item>
+    </string-array>
+
+    <string-array name="expressiveAnswers">
+        <item>Cerah/campuran</item>
+        <item>Tidak terlalu rapi tetapi nyaman</item>
+        <item>Seorang penemu hebat yang mencapai prestasi besar</item>
+        <item>Dengan memotivasi diri sendiri tanpa kekangan</item>
+        <item>Desainer kreatif</item>
+        <item>Saya tidak menghabiskan waktu memikirkan masa lalu, sedikit memikirkan masa kini, dan tertuju pada hal-hal hebat yang akan terjadi di masa depan</item>
+        <item>Menyampaikan pendapat yang tidak terpikirkan oleh orang lain</item>
+        <item>Menyumbangkan ide-ide kreatif</item>
+        <item>Dengan cara yang menyenangkan dan blak-blakan</item>
+        <item>Tidak masalah jika ada pembagian ulang peran dan tugas</item>
+        <item>Melihat berbagai peluang dan tantangan</item>
+        <item>Saya sangat kreatif</item>
+        <item>Kadang sangat semangat menyelesaikan konflik, kadang sangat tidak semangat</item>
+        <item>Saya percaya bahwa saya sedang melakukan sesuatu untuk mencapai hasil yang hebat</item>
+        <item>Saya suka menghabiskan uang</item>
+        <item>Memikirkan solusi meskipun terkadang tidak praktis</item>
+        <item>Memotivasi diri hingga mencapai hasil terbaik</item>
+        <item>Mengabaikan kritik yang menghalangi ide-ide besar saya</item>
+        <item>Berani mengambil risiko meski rintangannya sulit dihadapi</item>
+        <item>Bersemangat menyelesaikannya dengan motivasi yang tinggi</item>
+    </string-array>
+
+    <string-array name="driverAnswers">
+        <item>Merah</item>
+        <item>Terlihat teratur dan cukup mencolok</item>
+        <item>Seorang pemimpin yang sangat tegas, disiplin, dan memiliki standar yang sangat tinggi</item>
+        <item>Dengan memperhatikan tenggat waktu dan jadwal yang terkelola</item>
+        <item>Penanggung jawab</item>
+        <item>Saya hidup untuk hari ini, tidak khawatir tentang masa lalu atau masa depan</item>
+        <item>Berusaha untuk menang dan benci kekalahan</item>
+        <item>Membagi tugas untuk mencapai tujuan</item>
+        <item>Jujur dan mengatakan apa adanya</item>
+        <item>Mengambil alih pekerjaan agar cepat selesai</item>
+        <item>Kemenangan. Saya benci kekalahan</item>
+        <item>Saya sangat praktis</item>
+        <item>Memaksakan kehendak jika itu jalan yang terbaik</item>
+        <item>Saya sangat percaya diri</item>
+        <item>Saya suka bersaing</item>
+        <item>Langsung menghadapinya untuk mendapat pengalaman</item>
+        <item>Belajar melalui pengalaman dan mencoba lagi</item>
+        <item>Menerima kritik yang jujur dan membangun</item>
+        <item>Beradaptasi dengan segala kemungkinan</item>
+        <item>Mengeksekusi pekerjaan yang paling dekat dengan tenggat waktu</item>
+    </string-array>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+
+    <string name="input_email">Email</string>
+    <string name="input_password">Kata Sandi</string>
+    <string name="input_name">Nama</string>
+
+    <string name="signin">Masuk</string>
+    <string name="signup">Daftar</string>
+
+    <string name="registration_successful">Registrasi berhasil</string>
+    <string name="registration_fail">Registrasi gagal</string>
+    <string name="invalid_form">Form tidak valid!</string>
+
+    <string name="login_failed">"Login failed"</string>
+
+    <string name="create_acc">Belum Punya Akun?</string>
+    <string name="have_acc">Sudah Punya Akun?</string>
+    <string name="time_take">Waktu Pengerjaan:</string>
+    <string name="error_email_already_in_use">Email sudah digunakan</string>
+
+</resources>

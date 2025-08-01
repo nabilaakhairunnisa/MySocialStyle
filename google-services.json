@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "6258890431",
+    "firebase_url": "https://my-firebase-25-default-rtdb.firebaseio.com",
+    "project_id": "my-firebase-25",
+    "storage_bucket": "my-firebase-25.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6258890431:android:5672b3253952067eb5580a",
+        "android_client_info": {
+          "package_name": "com.nabila.kmpproject"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkv68wjOyjuaDeCugvT0UOIR3OufNtpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:6258890431:android:ad31abbc52e45929b5580a",
+        "android_client_info": {
+          "package_name": "com.nabila.mycommunicationstyle"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADkv68wjOyjuaDeCugvT0UOIR3OufNtpA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

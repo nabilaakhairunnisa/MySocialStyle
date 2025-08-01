@@ -1,0 +1,84 @@
+<resources>
+
+    <style
+        name="Base.Theme.mysocialstyle" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/purple</item>
+        <item name="buttonIconTint">@color/purple</item>
+    </style>
+
+    <style name="Theme.mysocialstyle" parent="Base.Theme.mysocialstyle" />
+
+    <style name="RadioButtonStyle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginBottom">10dp</item>
+        <item name="android:button">@null</item>
+        <item name="android:padding">15dp</item>
+        <item name="android:textSize">15sp</item>
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:background">@drawable/background_radio_button</item>
+    </style>
+
+    <style name="AppBarTextView" parent="Widget.AppCompat.TextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">match_parent</item>
+        <item name="android:layout_gravity">center</item>
+        <item name="android:layout_marginStart">10dp</item>
+        <item name="android:fontFamily">@font/acme</item>
+        <item name="android:gravity">center|start</item>
+        <item name="android:textSize">25sp</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textColor">@color/white</item>
+    </style>
+
+    <style name="TextViewResult" parent="Widget.AppCompat.TextView">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">17sp</item>
+        <item name="android:layout_marginStart">20dp</item>
+        <item name="android:layout_marginBottom">8dp</item>
+        <item name="android:layout_marginEnd">20dp</item>
+        <item name="android:fontFamily">@font/acme</item>
+    </style>
+
+    <style name="CardViewPercentage" parent="CardView">
+        <item name="android:layout_width">0dp</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:layout_marginEnd">1dp</item>
+        <item name="android:padding">5dp</item>
+    </style>
+
+    <style name="Percentage">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">2</item>
+        <!--        <item name="android:gravity">center</item>-->
+        <item name="android:text">@string/percentage</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+
+    <style name="NumberPercentage">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">2</item>
+        <item name="android:gravity">end</item>
+        <item name="android:text">@string/percentage</item>
+        <item name="android:textStyle">bold</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:layout_marginTop">5dp</item>
+    </style>
+
+    <style name="TextViewTitle">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_weight">1</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">10sp</item>
+        <item name="android:layout_marginBottom">5dp</item>
+    </style>
+
+</resources>
