@@ -25,31 +25,31 @@ The four social styles are:
 ## Demo
 
 <div align="center">
-  <img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/auth.gif"" width="250" />
+  <img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/master/demo/auth.gif"" width="250" />
   <h4>Authentication</h4>
   <p>The authentication process includes validation for email format and minimum password length.</p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/main.gif" width="250" />
+  <img src="https://github.com/nabilaakhairunnisa/MySocialStyle/blob/master/demo/main.gif" width="250" />
   <h4>Main Screen & Quiz History</h4>
   <p>The main screen displays a list of past quiz results, allowing users to review their social style history.</p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/quiz.gif" width="250" />
+  <img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/master/demo/quiz.gif" width="250" />
   <h4>Quiz</h4>
   <p>The "Next" button remains inactive until a user selects an answer. Upon pressing, it shows an error message. The "Finish" button appears and becomes active only on the last question after an answer is selected.</p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/result.gif" width="250" />
+  <img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/master/demo/result.gif" width="250" />
   <h4>Quiz Results</h4>
   <p>The results screen provides details about the identified social style, including strengths, weaknesses, solutions, communication tips, and suitable roles/tasks.</p>
 </div>
 
 <div align="center">
-  <img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/share.gif" width="250" />
+  <img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/master/demo/share.gif" width="250" />
   <h4>Share Quiz Results</h4>
   <p>Users can easily share their quiz results as a generated image to social media or other applications.</p>
 </div>
