@@ -21,6 +21,9 @@ The four social styles are:
 * **Shareable Results:** Users can share their quiz results in an image format.
 * **Interactive Quiz Navigation:** Users can navigate back to previous questions, with their selected answers automatically saved and displayed via a `MutableMap<Int, Int>` that maps the `radioButtonId` to the question number.
 
+## Documentation
+* [TSD (Technical System Documentation)](https://github.com/nabilaakhairunnisa/MySocialStyle/blob/master/documentation/TSD.pdf): This document outlines the technical architecture, data models, and implementation details of the application.
+* [FSD (Functional System Documentation)](https://github.com/nabilaakhairunnisa/MySocialStyle/blob/master/documentation/FSD.pdf): This document describes the application's features and how it functions from a user's perspective. 
 
 ## Demo
 
