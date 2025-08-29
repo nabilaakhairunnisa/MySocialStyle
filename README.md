@@ -2,6 +2,8 @@
 
 An Android application for identifying an individual's social style based on the Social Styles theory.
 
+<img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/master/demo/ui.png" />
+
 ## About the Social Styles Theory
 
 The Social Styles theory categorizes individuals into four distinct social styles based on their behavior and communication patterns. Each style has unique characteristics, strengths, and weaknesses.
