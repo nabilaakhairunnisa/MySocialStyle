@@ -1,6 +1,6 @@
 # My Social Style
 
-An Android application for identifying an individual's social style based on the Social Styles theory.
+An Android application for identifying an individual's social style based on the Social Styles theory, designed to enhance effective communication and collaboration in personal and professional interactions.
 
 <img src="https://github.com/nabilaakhairunnisa/mysocialstyle/blob/master/demo/ui.png" />
 
@@ -26,6 +26,18 @@ The four social styles are:
 ## Documentation
 * [TSD (Technical System Documentation)](https://github.com/nabilaakhairunnisa/MySocialStyle/blob/master/documentation/TSD.pdf): This document outlines the technical architecture, data models, and implementation details of the application.
 * [FSD (Functional System Documentation)](https://github.com/nabilaakhairunnisa/MySocialStyle/blob/master/documentation/FSD.pdf): This document describes the application's features and how it functions from a user's perspective. 
+
+## How to Install
+You can try the **MySocialStyle App** by installing the APK file directly on your Android device.
+1. Download the latest release APK: [my-social-style.apk](https://github.com/nabilaakhairunnisa/MySocialStyle/raw/refs/heads/master/my-social-style.apk)
+2. Open the downloaded file on your Android device.
+3. If prompted, allow installation from unknown sources:
+   - Go to **Settings > Security > Install unknown apps**.
+   - Enable permission for your browser or file manager.
+4. Tap **Install** and wait for the process to finish.
+5. Once installed, open **MySocialStyle App** and start exploring your social style.
+
+**Note:** The app is safe to install, but since it’s not from Google Play, Android requires extra permission for security.
 
 ## Demo
 
